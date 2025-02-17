@@ -10,7 +10,7 @@ Welcome to **NexaQuery AI**, an advanced **web-based Q&A AI agent** that allows 
 - 🎨 **Sleek UI** – Built with **React** and **Ant Design** for a seamless user experience.
 
 ## 📅 Estimated Release
-The source code and full documentation will be available **soon**.
+The source code and full documentation will be available **soon**.(Around the end of Feburary 2025)
 
 ## 📢 Stay Updated
 ⭐ **Star this repository** to get notified when the project is live!  
